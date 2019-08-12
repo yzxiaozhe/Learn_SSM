@@ -1,0 +1,15 @@
+com\MustLearnSSM\pojo\ProductCategory.class
+com\MustLearnSSM\pojo\ProductCategoryExample.class
+com\MustLearnSSM\pojo\UserExample.class
+com\MustLearnSSM\pojo\ProductCategoryExample$Criterion.class
+com\MustLearnSSM\pojo\Product.class
+com\MustLearnSSM\pojo\ProductExample$Criterion.class
+com\MustLearnSSM\pojo\ProductCategoryExample$Criteria.class
+com\MustLearnSSM\pojo\UserExample$Criterion.class
+com\MustLearnSSM\pojo\ProductExample$GeneratedCriteria.class
+com\MustLearnSSM\pojo\ProductCategoryExample$GeneratedCriteria.class
+com\MustLearnSSM\pojo\ProductExample$Criteria.class
+com\MustLearnSSM\pojo\User.class
+com\MustLearnSSM\pojo\UserExample$Criteria.class
+com\MustLearnSSM\pojo\ProductExample.class
+com\MustLearnSSM\pojo\UserExample$GeneratedCriteria.class
