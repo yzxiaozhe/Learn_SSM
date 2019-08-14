@@ -6,7 +6,16 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f61ba66f-02f3-483c-8b0d-e67de5acd88f" name="Default Changelist" comment="" />
+    <list default="true" id="f61ba66f-02f3-483c-8b0d-e67de5acd88f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/java/com/MustLearnSSM/controller/FileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/java/com/MustLearnSSM/fastdfs/FastDFSClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/resources/conf/fdfs_client.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/resources/spring/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/resources/spring/springmvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MustLearnSSM_parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MustLearnSSM_parent/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/MustLearnSSM_parent/target/" />
@@ -51,24 +60,26 @@
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.22" value="2" />
           <entry key="project.open.time.24" value="1" />
-          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.26" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="10" />
+          <entry key="conf" value="1" />
           <entry key="css" value="2" />
-          <entry key="java" value="79" />
+          <entry key="java" value="94" />
           <entry key="js" value="6" />
           <entry key="jsp" value="10" />
           <entry key="properties" value="3" />
           <entry key="ts" value="1" />
-          <entry key="xml" value="104" />
+          <entry key="xml" value="115" />
           <entry key="xml;appContextName=applicationContext-dao" value="1" />
         </counts>
       </usages-collector>
@@ -76,32 +87,33 @@
         <counts>
           <entry key="CLASS" value="10" />
           <entry key="CSS" value="2" />
-          <entry key="JAVA" value="79" />
+          <entry key="JAVA" value="94" />
           <entry key="JSP" value="10" />
           <entry key="JavaScript" value="6" />
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="Properties" value="3" />
           <entry key="TypeScript" value="1" />
           <entry key="UML" value="1" />
-          <entry key="XML" value="104" />
+          <entry key="XML" value="115" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="9" />
-          <entry key="java" value="1596" />
+          <entry key="java" value="1760" />
           <entry key="jsp" value="1298" />
           <entry key="properties" value="33" />
           <entry key="txt" value="23" />
-          <entry key="xml" value="1592" />
+          <entry key="xml" value="1669" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1596" />
+          <entry key="JAVA" value="1760" />
           <entry key="JSP" value="1298" />
           <entry key="PLAIN_TEXT" value="32" />
           <entry key="Properties" value="33" />
-          <entry key="XML" value="1592" />
+          <entry key="XML" value="1669" />
         </counts>
       </usages-collector>
     </session>
@@ -109,22 +121,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/webapp/WEB-INF/jsp/index.jsp">
+        <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_service/src/main/java/com/MustLearnSSM/service/impl/ProductCategoryServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="22" column="69" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="69" />
+            <state relative-caret-position="-252">
+              <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/webapp/WEB-INF/jsp/product_cat_list.jsp">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="-1704">
+              <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -132,115 +144,77 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+            <state relative-caret-position="264">
+              <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/java/com/MustLearnSSM/controller/ProductCategoryController.java">
+        <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/resources/conf/fdfs_client.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="162">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_common/src/main/java/pojo/ResponseJsonResult.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-219">
-              <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#583#584#0" expanded="true" />
-                <element signature="e#624#625#0" expanded="true" />
-                <element signature="e#660#661#0" expanded="true" />
-                <element signature="e#690#691#0" expanded="true" />
-                <element signature="e#716#717#0" expanded="true" />
-                <element signature="e#754#755#0" expanded="true" />
-                <element signature="e#784#785#0" expanded="true" />
-                <element signature="e#814#815#0" expanded="true" />
-                <element signature="e#840#841#0" expanded="true" />
-                <element signature="e#878#879#0" expanded="true" />
-                <element signature="e#908#909#0" expanded="true" />
-                <element signature="e#940#941#0" expanded="true" />
-                <element signature="e#967#968#0" expanded="true" />
-                <element signature="e#1008#1009#0" expanded="true" />
-                <element signature="e#1040#1041#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_service/src/main/java/com/MustLearnSSM/service/ProductCategoryService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_common/src/main/java/pojo/EasyUiTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="666">
-              <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
-              <folding>
-                <element signature="e#196#197#0" expanded="true" />
-                <element signature="e#221#222#0" expanded="true" />
-                <element signature="e#254#255#0" expanded="true" />
-                <element signature="e#282#283#0" expanded="true" />
-                <element signature="e#313#314#0" expanded="true" />
-                <element signature="e#340#341#0" expanded="true" />
-                <element signature="e#380#381#0" expanded="true" />
-                <element signature="e#412#413#0" expanded="true" />
-                <element signature="e#444#445#0" expanded="true" />
-                <element signature="e#472#473#0" expanded="true" />
-                <element signature="e#514#515#0" expanded="true" />
-                <element signature="e#548#549#0" expanded="true" />
-                <element signature="e#650#651#0" expanded="true" />
-                <element signature="e#702#703#0" expanded="true" />
-                <element signature="e#746#747#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_service/src/main/java/com/MustLearnSSM/service/impl/ProductCategoryServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_mapper/src/main/java/com/MustLearnSSM/mapper/ProductCategoryMapper.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="101" column="61" selection-start-line="101" selection-start-column="61" selection-end-line="101" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_pojo/src/main/java/com/MustLearnSSM/pojo/ProductCategory.java">
+        <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/java/com/MustLearnSSM/fastdfs/FastDFSClient.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+              <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/java/com/MustLearnSSM/controller/FileController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/resources/spring/springmvc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/resources/mybatis/sqlMapConfig.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/resources/spring/applicationContext-service.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/resources/spring/applicationContext-trans.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -268,11 +242,13 @@
       <find>insert</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_pojo/pom.xml" />
-        <option value="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/pom.xml" />
         <option value="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/resources/mybatis/sqlMapConfig.xml" />
         <option value="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/webapp/WEB-INF/index.jsp" />
         <option value="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/pom.xml" />
@@ -285,7 +261,6 @@
         <option value="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_mapper/src/main/java/com/MustLearnSSM/mapper/UserMapper.xml" />
         <option value="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/webapp/jsp/index.jsp" />
         <option value="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/resources/spring/springmvc.xml" />
         <option value="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/java/com/MustLearnSSM/controller/ProductController.java" />
         <option value="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/webapp/WEB-INF/jsp/product_list.jsp" />
         <option value="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_service/src/main/java/com/MustLearnSSM/service/UserService.java" />
@@ -298,7 +273,6 @@
         <option value="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_common/pom.xml" />
         <option value="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/webapp/WEB-INF/jsp/index.jsp" />
         <option value="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_mapper/pom.xml" />
-        <option value="$PROJECT_DIR$/MustLearnSSM_parent/pom.xml" />
         <option value="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_common/src/main/java/pojo/RespinsResult.java" />
         <option value="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_common/src/main/java/pojo/ResponseJsonResult.java" />
         <option value="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_mapper/src/main/java/com/MustLearnSSM/mapper/ProductCategoryMapper.xml" />
@@ -308,6 +282,12 @@
         <option value="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/java/com/MustLearnSSM/controller/ProductCategoryController.java" />
         <option value="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/webapp/WEB-INF/jsp/product_cat_list.jsp" />
         <option value="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_service/src/main/java/com/MustLearnSSM/service/impl/ProductCategoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/MustLearnSSM_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/pom.xml" />
+        <option value="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/resources/conf/fdfs_client.conf" />
+        <option value="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/java/com/MustLearnSSM/fastdfs/FastDFSClient.java" />
+        <option value="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/java/com/MustLearnSSM/controller/FileController.java" />
       </list>
     </option>
   </component>
@@ -344,11 +324,6 @@
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="MustLearnSSM" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="MustLearnSSM" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
@@ -397,21 +372,36 @@
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
           <item name="com.zhe:MustLearnSSM_manager_mapper:1.0-SNAPSHOT" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MustLearnSSM_manager_web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MustLearnSSM_manager_web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MustLearnSSM_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
     <option name="height" value="970" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -428,182 +418,7 @@
               <item name="MustLearnSSM" type="b2602c69:ProjectViewProjectNode" />
               <item name="MustLearnSSM" type="462c0819:PsiDirectoryNode" />
               <item name="MustLearnSSM_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustLearnSSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustLearnSSM" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustLearnSSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustLearnSSM" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustLearnSSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustLearnSSM" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustLearnSSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustLearnSSM" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustLearnSSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustLearnSSM" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_parent" type="462c0819:PsiDirectoryNode" />
               <item name="MustLearnSSM_manager" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustLearnSSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustLearnSSM" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager_mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustLearnSSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustLearnSSM" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager_mapper" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustLearnSSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustLearnSSM" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager_mapper" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustLearnSSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustLearnSSM" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager_mapper" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustLearnSSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustLearnSSM" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager_mapper" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustLearnSSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustLearnSSM" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager_pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustLearnSSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustLearnSSM" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager_pojo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustLearnSSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustLearnSSM" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager_pojo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustLearnSSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustLearnSSM" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager_pojo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustLearnSSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustLearnSSM" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager_pojo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustLearnSSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustLearnSSM" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager_service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustLearnSSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustLearnSSM" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager_service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustLearnSSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustLearnSSM" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager_service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustLearnSSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustLearnSSM" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager_service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MustLearnSSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MustLearnSSM" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager" type="462c0819:PsiDirectoryNode" />
-              <item name="MustLearnSSM_manager_service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MustLearnSSM" type="b2602c69:ProjectViewProjectNode" />
@@ -648,6 +463,18 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="MustLearnSSM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MustLearnSSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MustLearnSSM" type="462c0819:PsiDirectoryNode" />
+              <item name="MustLearnSSM_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="MustLearnSSM_manager" type="462c0819:PsiDirectoryNode" />
+              <item name="MustLearnSSM_manager_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="MustLearnSSM" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -658,7 +485,7 @@
               <item name="MustLearnSSM_manager_web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MustLearnSSM" type="b2602c69:ProjectViewProjectNode" />
@@ -668,8 +495,8 @@
               <item name="MustLearnSSM_manager_web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MustLearnSSM" type="b2602c69:ProjectViewProjectNode" />
@@ -679,46 +506,45 @@
               <item name="MustLearnSSM_manager_web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565586883744" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565795145913" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../新建文件夹/manong-ssm-master" />
+    <property name="last_opened_file_path" value="D:/IdeaProjects/fastdfs-client-java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15332031" />
     <property name="project.structure.side.proportion" value="0.4106113" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\java\MustLearnSSM\MustLearnSSM_parent\MustLearnSSM_manager\MustLearnSSM_manager_web\src\main\webapp\WEB-INF" />
-      <recent name="D:\java\MustLearnSSM\MustLearnSSM_parent\MustLearnSSM_manager\MustLearnSSM_manager_web\src\main\webapp" />
-      <recent name="D:\java\MustLearnSSM\MustLearnSSM_parent\MustLearnSSM_manager\MustLearnSSM_manager_web\src\main\webapp\WEB-INF\jsp" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\MustLearnSSM\MustLearnSSM_parent\MustLearnSSM_manager\MustLearnSSM_manager_web\src\main\resources\conf" />
       <recent name="D:\java\MustLearnSSM\MustLearnSSM_parent\MustLearnSSM_manager\MustLearnSSM_manager_pojo\src\main\java\com\MustLearnSSM\pojo" />
       <recent name="D:\java\MustLearnSSM\MustLearnSSM_parent\MustLearnSSM_manager\MustLearnSSM_manager_mapper\src\main\java\com\MustLearnSSM\mapper" />
       <recent name="D:\java\MustLearnSSM\MustLearnSSM_parent\MustLearnSSM_manager\MustLearnSSM_manager_web\src\main\webapp\WEB-INF\js" />
       <recent name="D:\java\MustLearnSSM\MustLearnSSM_parent\MustLearnSSM_manager\MustLearnSSM_manager_web\src\main\webapp\WEB-INF\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java\MustLearnSSM\MustLearnSSM_parent\MustLearnSSM_manager\MustLearnSSM_manager_web\src\main\webapp\WEB-INF" />
+      <recent name="D:\java\MustLearnSSM\MustLearnSSM_parent\MustLearnSSM_manager\MustLearnSSM_manager_web\src\main\webapp" />
+      <recent name="D:\java\MustLearnSSM\MustLearnSSM_parent\MustLearnSSM_manager\MustLearnSSM_manager_web\src\main\webapp\WEB-INF\jsp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -893,20 +719,23 @@
       <workItem from="1565398005252" duration="3685000" />
       <workItem from="1565488315558" duration="6307000" />
       <workItem from="1565502754342" duration="10863000" />
-      <workItem from="1565570057074" duration="12441000" />
+      <workItem from="1565570057074" duration="16929000" />
+      <workItem from="1565676116416" duration="903000" />
+      <workItem from="1565758129106" duration="4144000" />
+      <workItem from="1565793136707" duration="1861000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72875000" />
+    <option name="totallyTimeSpent" value="84271000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.877551" visible="true" weight="0.23257373" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8699187" visible="true" weight="0.27345845" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Web" order="2" sideWeight="0.12244898" side_tool="true" visible="true" weight="0.23257373" />
+      <window_info id="Web" order="2" sideWeight="0.1300813" side_tool="true" visible="true" weight="0.27345845" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
       <window_info id="UI Designer" order="5" />
@@ -914,12 +743,12 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21083455" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4589443" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39970717" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -929,14 +758,14 @@
       <window_info anchor="bottom" id="Messages" order="14" />
       <window_info anchor="bottom" id="Dependency Viewer" order="15" weight="0.568082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" visible="true" weight="0.11595174" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.11595174" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Database" order="5" weight="0.3297587" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32707775" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.16621985" />
       <window_info anchor="right" id="Module Dependencies" order="9" weight="0.3297587" />
     </layout>
     <layout-to-restore>
@@ -980,39 +809,20 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="MustLearnSSM" type="b2602c69:ProjectViewProjectNode" />
+        <item name="MustLearnSSM" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/../apache-maven-3.6.0/repository/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/session/Configuration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="716" selection-start-line="716" selection-end-line="716" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../apache-maven-3.6.0/repository/org/mybatis/mybatis-spring/1.3.2/mybatis-spring-1.3.2.jar!/org/mybatis/spring/mapper/MapperFactoryBean.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../apache-maven-3.6.0/repository/org/springframework/spring-tx/4.3.4.RELEASE/spring-tx-4.3.4.RELEASE.jar!/org/springframework/dao/support/DaoSupport.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../apache-maven-3.6.0/repository/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/binding/MapperRegistry.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../apache-maven-3.6.0/repository/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/builder/annotation/MapperAnnotationBuilder.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="79">
@@ -1024,13 +834,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="79">
           <caret line="76" selection-start-line="76" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/resources/spring/applicationContext-trans.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -1054,24 +857,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/resources/spring/applicationContext-service.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/resources/spring/applicationContext-dao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="51" column="11" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -1085,32 +874,11 @@
     <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_mapper/src/main/java/com/MustLearnSSM/mapper/ProductMapper.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_mapper/src/main/java/com/MustLearnSSM/mapper/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/java/com/MustLearnSSM/controller/IndexController.java" />
     <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/webapp/WEB-INF/jsp/product_list.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/resources/spring/springmvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_pojo/src/main/java/com/MustLearnSSM/pojo/UserExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3888">
-          <caret line="237" column="24" selection-start-line="237" selection-start-column="24" selection-end-line="237" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -1121,20 +889,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_pojo/src/main/java/com/MustLearnSSM/pojo/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_pojo/src/main/java/com/MustLearnSSM/pojo/ProductExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -1142,22 +896,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_pojo/src/main/java/com/MustLearnSSM/pojo/ProductCategoryExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_pojo/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/java/com/MustLearnSSM/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="19" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/java/com/MustLearnSSM/controller/PageController.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1166,37 +906,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/java/com/MustLearnSSM/controller/ProductController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_mapper/src/main/java/com/MustLearnSSM/mapper/ProductCategoryMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_service/src/main/java/com/MustLearnSSM/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_service/src/main/java/com/MustLearnSSM/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_mapper/src/main/java/com/MustLearnSSM/mapper/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
           <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
         </state>
       </provider>
@@ -1243,42 +955,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_common/src/main/java/pojo/ResponseJsonResult.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-219">
           <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
-            <element signature="e#660#661#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
-            <element signature="e#716#717#0" expanded="true" />
-            <element signature="e#754#755#0" expanded="true" />
-            <element signature="e#784#785#0" expanded="true" />
-            <element signature="e#814#815#0" expanded="true" />
-            <element signature="e#840#841#0" expanded="true" />
-            <element signature="e#878#879#0" expanded="true" />
-            <element signature="e#908#909#0" expanded="true" />
-            <element signature="e#940#941#0" expanded="true" />
-            <element signature="e#967#968#0" expanded="true" />
-            <element signature="e#1008#1009#0" expanded="true" />
-            <element signature="e#1040#1041#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_pojo/src/main/java/com/MustLearnSSM/pojo/ProductCategory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -1286,23 +966,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="666">
           <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
-          <folding>
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#412#413#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#514#515#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
-            <element signature="e#650#651#0" expanded="true" />
-            <element signature="e#702#703#0" expanded="true" />
-            <element signature="e#746#747#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1317,15 +980,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
           <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_pojo/src/main/java/com/MustLearnSSM/pojo/ProductExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_pojo/src/main/java/com/MustLearnSSM/pojo/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_mapper/src/main/java/com/MustLearnSSM/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="114" column="30" lean-forward="true" selection-start-line="114" selection-start-column="30" selection-end-line="114" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/webapp/WEB-INF/jsp/product_cat_list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_mapper/src/main/java/com/MustLearnSSM/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_pojo/src/main/java/com/MustLearnSSM/pojo/UserExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="116" column="24" selection-start-line="116" selection-start-column="24" selection-end-line="116" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/resources/spring/applicationContext-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="52" column="8" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/java/com/MustLearnSSM/controller/ProductCategoryController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
+        <state relative-caret-position="558">
           <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1333,37 +1042,131 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/webapp/WEB-INF/jsp/product_cat_list.jsp">
+    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_pojo/src/main/java/com/MustLearnSSM/pojo/ProductCategory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_pojo/src/main/java/com/MustLearnSSM/pojo/ProductCategoryExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_mapper/src/main/java/com/MustLearnSSM/mapper/ProductCategoryMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1500">
+          <caret line="101" column="61" selection-start-line="101" selection-start-column="61" selection-end-line="101" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/java/com/MustLearnSSM/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_service/src/main/java/com/MustLearnSSM/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_service/src/main/java/com/MustLearnSSM/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="27" column="25" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/java/com/MustLearnSSM/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/resources/mybatis/sqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/resources/spring/applicationContext-trans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_service/src/main/java/com/MustLearnSSM/service/impl/ProductCategoryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        <state relative-caret-position="264">
+          <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_mapper/src/main/java/com/MustLearnSSM/mapper/ProductCategoryMapper.xml">
+    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/resources/conf/fdfs_client.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="101" column="61" selection-start-line="101" selection-start-column="61" selection-end-line="101" selection-end-column="61" />
+        <state relative-caret-position="162">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_service/src/main/java/com/MustLearnSSM/service/impl/ProductCategoryServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/java/com/MustLearnSSM/fastdfs/FastDFSClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+        <state relative-caret-position="198">
+          <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/MustLearnSSM_manager/MustLearnSSM_manager_web/src/main/java/com/MustLearnSSM/controller/FileController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MustLearnSSM_parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1704">
+          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -1446,6 +1249,17 @@
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <last-edited>Maven: com.alibaba:druid:1.1.16</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4106113" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -1,4 +1,6 @@
-com\MustLearnSSM\controller\ProductController.class
 com\MustLearnSSM\controller\PageController.class
-com\MustLearnSSM\controller\ProductCategoryController.class
+com\MustLearnSSM\fastdfs\FastDFSClient.class
 com\MustLearnSSM\controller\UserController.class
+com\MustLearnSSM\controller\FileController.class
+com\MustLearnSSM\controller\ProductController.class
+com\MustLearnSSM\controller\ProductCategoryController.class
