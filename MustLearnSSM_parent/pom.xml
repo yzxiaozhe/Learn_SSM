@@ -34,7 +34,7 @@
         <jackson-databin.version>2.9.8</jackson-databin.version>
         <fastdfs.version>1.27-SNAPSHOT</fastdfs.version>
         <commons-fileupload>1.3.1</commons-fileupload>
-        <commons-io>2.2</commons-io>
+        <commons-io>2.7</commons-io>
         <commons-lang3>3.1</commons-lang3>
     </properties>
     
